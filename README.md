@@ -1,0 +1,26 @@
+# [![𝓑𝓵𝓪𝓬𝓴𝓞𝓻𝓭𝓮𝓻](https://raw.githubusercontent.com/BlackOrder/blackorder/main/svg/BlackOrder_H1.svg)](https://github.com/BlackOrder) ![Profile Views](https://komarev.com/ghpvc/?username=blackorder&style=flat-square&color=blue)
+
+[![𝓑𝓵𝓪𝓬𝓴𝓞𝓻𝓭𝓮𝓻's Languages](https://github.com/BlackOrder/blackorder/blob/main/svg/GitHub%20profile%20header%20v2.png?raw=true)](#fire-my-stats)
+
+This is the GitHub profile for [![𝓑𝓵𝓪𝓬𝓴𝓞𝓻𝓭𝓮𝓻](https://raw.githubusercontent.com/BlackOrder/blackorder/main/svg/BlackOrder_H4.svg)](https://github.com/BlackOrder), a software engineer with a passion for open source. I am a Full Stack Developer with experience in Java, JavaScript, PHP, Laravel, C#, and Python.
+
+---
+
+## :fire: My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=blackorder&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Fri)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackorder&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+**BlackOrder/blackorder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
